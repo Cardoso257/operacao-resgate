@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900016281320",
+    "project_id": "oper-f1380",
+    "storage_bucket": "oper-f1380.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900016281320:android:f4cbd93c5faffd0b869b5d",
+        "android_client_info": {
+          "package_name": "com.example.bugsresolver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900016281320-aaks6q5sbkp7itfks6oh2ru6rh2p8t8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASYn7uJm7p7Vlgm48r42IwKGQ1X9qGwGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900016281320-aaks6q5sbkp7itfks6oh2ru6rh2p8t8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
